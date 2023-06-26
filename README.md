@@ -1,0 +1,1 @@
+Using a set of arithmetic and logical operations using python we can create a unique sha for every password which is infeasable by any hacker to decrypt the python program was uploaded to flask with help from @arcosane and chhand 
